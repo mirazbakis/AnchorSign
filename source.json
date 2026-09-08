@@ -1,0 +1,45 @@
+{
+  "name": "AnchorSign",
+  "identifier": "com.mirazbakis.anchorsign.source",
+  "sourceURL": "https://raw.githubusercontent.com/mirazbakis/AnchorSign/main/source.json",
+  "iconURL": "https://raw.githubusercontent.com/mirazbakis/AnchorSign/main/icon.png",
+  "website": "https://github.com/mirazbakis/AnchorSign",
+  "apps": [
+    {
+      "name": "AnchorSign",
+      "bundleIdentifier": "com.mirazbakis.xsign",
+      "developerName": "mirazbakis",
+      "subtitle": "On-device iOS signing",
+      "localizedDescription": "AnchorSign is an advanced fork of Feather that allows you to codesign with ease.",
+      "iconURL": "https://raw.githubusercontent.com/mirazbakis/AnchorSign/main/icon.png",
+      "tintColor": "0A1C56",
+      "category": "utilities",
+      "version": "2.9.0",
+      "versionDate": "2026-09-08T11:40:00Z",
+      "versionDescription": "Fixed logo showing incorrectly on launch. Updated credits to Feather (\"Original Feather Developers\"). Moved repository to mirazbakis/AnchorSign. Updated logo.",
+      "downloadURL": "https://github.com/mirazbakis/AnchorSign/releases/download/1.1.0/AnchorSign.ipa",
+      "size": 18987794,
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2.9.0",
+          "date": "2026-09-08T11:40:00Z",
+          "localizedDescription": "Fixed logo showing incorrectly on launch. Updated credits to Feather (\"Original Feather Developers\"). Moved repository to mirazbakis/AnchorSign. Updated logo.",
+          "downloadURL": "https://github.com/mirazbakis/AnchorSign/releases/download/1.1.0/AnchorSign.ipa",
+          "size": 18987794
+        },
+        {
+          "version": "2.9.0",
+          "date": "2026-09-06T13:20:01Z",
+          "localizedDescription": "Initial release.",
+          "downloadURL": "https://github.com/mirazbakis/xsign/releases/download/1.0.0/XSign.ipa",
+          "size": 14420718
+        }
+      ]
+    }
+  ],
+  "news": []
+}
