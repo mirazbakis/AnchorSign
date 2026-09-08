@@ -1,7 +1,7 @@
 <div align="center">
   <img src="icon.png" width="128" height="128" alt="Xsign">
 
-  # XSign 
+  # AnchorSign 
 
 An advanced code signing tool, forked from [Feather](https://github.com/claration/Feather).
 
