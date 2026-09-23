@@ -17,7 +17,7 @@
       "version": "2.9.0",
       "versionDate": "2026-09-08T11:40:00Z",
       "versionDescription": "Fixed logo showing incorrectly on launch. Updated credits to Feather (\"Original Feather Developers\"). Moved repository to mirazbakis/AnchorSign. Updated logo.",
-      "downloadURL": "https://github.com/mirazbakis/AnchorSign/releases/download/1.1.0/AnchorSign.ipa",
+      "downloadURL": "https://github.com/mirazbakis/AnchorSign/releases/download/1.2.0/AnchorSign.ipa",
       "size": 18987794,
       "appPermissions": {
         "entitlements": [],
