@@ -12,8 +12,7 @@ Visit [releases](https://github.com/mirazbakis/AnchorSign/releases) and get the 
 </a>
 
 ## Acknowledgements
-- Miraz Bakis - Developer
-- Original Feather Developers
+- [Original Feather Developers and Contributors](https://github.com/claration/feather/contributors)
 - [idevice](https://github.com/jkcoxson/idevice) - Backend for builds with this included, used for communication with `installd`.
 - [*.backloop.dev](https://backloop.dev/) - localhost with public CA signed SSL certificate
 - [Vapor](https://github.com/vapor/vapor) - A server-side Swift HTTP web framework.
