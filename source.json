@@ -14,25 +14,32 @@
       "iconURL": "https://raw.githubusercontent.com/mirazbakis/AnchorSign/main/icon.png",
       "tintColor": "0A1C56",
       "category": "utilities",
-      "version": "2.9.0",
-      "versionDate": "2026-09-08T11:40:00Z",
-      "versionDescription": "Fixed logo showing incorrectly on launch. Updated credits to Feather (\"Original Feather Developers\"). Moved repository to mirazbakis/AnchorSign. Updated logo.",
-      "downloadURL": "https://github.com/mirazbakis/AnchorSign/releases/download/1.2.0/AnchorSign.ipa",
-      "size": 18987794,
+      "version": "1.3.0",
+      "versionDate": "2026-09-24T16:08:00Z",
+      "versionDescription": "Updated build (2.9.0 internal). Fixed logo showing incorrectly on launch. Updated credits to Feather (\"Original Feather Developers\"). Moved repository to mirazbakis/AnchorSign. Updated logo.",
+      "downloadURL": "https://github.com/mirazbakis/AnchorSign/releases/download/1.3.0/AnchorSign.ipa",
+      "size": 20709824,
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
       },
       "versions": [
         {
-          "version": "2.9.0",
+          "version": "1.3.0",
+          "date": "2026-09-24T16:08:00Z",
+          "localizedDescription": "Updated build (2.9.0 internal). Fixed logo showing incorrectly on launch. Updated credits to Feather (\"Original Feather Developers\"). Moved repository to mirazbakis/AnchorSign. Updated logo.",
+          "downloadURL": "https://github.com/mirazbakis/AnchorSign/releases/download/1.3.0/AnchorSign.ipa",
+          "size": 20709824
+        },
+        {
+          "version": "1.2.0",
           "date": "2026-09-08T11:40:00Z",
           "localizedDescription": "Fixed logo showing incorrectly on launch. Updated credits to Feather (\"Original Feather Developers\"). Moved repository to mirazbakis/AnchorSign. Updated logo.",
-          "downloadURL": "https://github.com/mirazbakis/AnchorSign/releases/download/1.1.0/AnchorSign.ipa",
+          "downloadURL": "https://github.com/mirazbakis/AnchorSign/releases/download/1.2.0/AnchorSign.ipa",
           "size": 18987794
         },
         {
-          "version": "2.9.0",
+          "version": "1.1.0",
           "date": "2026-09-06T13:20:01Z",
           "localizedDescription": "Initial release.",
           "downloadURL": "https://github.com/mirazbakis/xsign/releases/download/1.0.0/XSign.ipa",
